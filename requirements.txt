@@ -1,0 +1,24 @@
+pip
+numpy
+pandas
+matplotlib
+keras
+torch == 1.12.1+cu113
+torchaudio == 0.12+cu113
+torchvision == 0.12+cu113
+scikit-learn
+PyYAML
+pyjson
+Pillow
+tensorflow
+river
+scikit-multiflow
+scipy
+metrics
+os
+warnings
+PIL
+random
+time
+uuid
+datetime
